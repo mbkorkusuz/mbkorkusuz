@@ -1,9 +1,8 @@
-## Hi there 👋
+# About me
 
+Hi there, I am M.Baran, a fresh computer engineering graduate. Looking forward to a new advanture. You can reach my past done projects in my account.
+  - You can reach me by mail for anything you may be wonder about me, mbarankorkusuz@gmail.com
 <!--
-**mbkorkusuz/mbkorkusuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +12,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
